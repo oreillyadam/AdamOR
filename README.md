@@ -13,8 +13,11 @@ The file reader reads in the supplied words from the exam outline under the titl
 
 Bibliography 
 The book and websites used to learn code in addition to moodle notes are as follows:
+
 Cadenhead, R. (n.d.). Sams teach yourself Java in 24 hours. 1st ed.
+
 Youtube.com. (2016). Java Video Tutorial - YouTube. [online] Available at: https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19 [Accessed 30 Nov. 2016].
+
 Codecademy. (2016). Learn Java. [online] Available at: https://www.codecademy.com/learn/learn-java [Accessed 30 Nov. 2016].
 
 
